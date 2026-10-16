@@ -1,0 +1,8 @@
+{
+  "status": "ok",
+  "services": {
+    "dns": "up",
+    "api": "up",
+    "database": "down"
+  }
+}
